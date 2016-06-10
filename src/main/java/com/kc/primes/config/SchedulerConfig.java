@@ -1,6 +1,6 @@
 package com.kc.primes.config;
 
-import com.skua.primes.service.PrimesService;
+import com.kc.primes.service.PrimesService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
