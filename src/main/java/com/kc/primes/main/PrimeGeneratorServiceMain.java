@@ -9,7 +9,7 @@ import org.springframework.boot.SpringApplication;
 import java.util.concurrent.TimeUnit;
 
 public class PrimeGeneratorServiceMain {
-    static final MetricRegistry metrics = new MetricRegistry();
+    
     public static void main(String[] args) {
         SpringApplication.run(PrimeGeneratorServiceConfiguration.class, args);
     }
