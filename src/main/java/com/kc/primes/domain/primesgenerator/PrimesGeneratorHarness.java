@@ -1,6 +1,6 @@
 package com.kc.primes.domain.primesgenerator;
 
-import com.skua.primes.domain.PrimesResult;
+import com.kc.primes.domain.PrimesResult;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
