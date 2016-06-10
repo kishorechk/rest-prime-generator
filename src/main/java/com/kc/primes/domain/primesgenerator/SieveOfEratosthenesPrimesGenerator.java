@@ -1,4 +1,4 @@
-package com.skua.primes.domain.primesgenerator;
+package com.kc.primes.domain.primesgenerator;
 
 
 import java.util.ArrayList;
